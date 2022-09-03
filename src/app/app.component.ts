@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
-import { NgIf } from '@angular/common';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [NgIf],
-  template: `<h1 *ngIf="true">test</h1>`,
+  imports: [RouterModule],
+  template: `<router-outlet></router-outlet>`,
   styles: [],
 })
 export class AppComponent {
