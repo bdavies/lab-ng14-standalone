@@ -1,22 +1,19 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { MultiplyByTwoPipe } from '../../../shared/pipes/multiply-by-two/multiply-by-two.pipe';
 
 @Component({
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, MultiplyByTwoPipe],
   template: `
-    <p>
-      inbox-list-page works!
-    </p>
+    <p>inbox-list-page works!</p>
+
+    <p>Pipe checker: {{ 10 | multiplyByTwo }}</p>
   `,
-  styles: [
-  ]
+  styles: [],
 })
 export class InboxListPageComponent implements OnInit {
+  constructor() {}
 
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void {}
 }
