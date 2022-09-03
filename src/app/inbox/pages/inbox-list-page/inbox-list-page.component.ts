@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { MultiplyByTwoPipe } from '../../../shared/pipes/multiply-by-two/multiply-by-two.pipe';
+import { MultiplyByTwoPipe } from '@app/shared/pipes/multiply-by-two/multiply-by-two.pipe';
 
 @Component({
   standalone: true,
