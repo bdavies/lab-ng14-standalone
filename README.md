@@ -1,4 +1,6 @@
-# LabNg14Standalone
+# Angular 14 - Standalone components
+
+A small sample project to play around with module-less Angular 14.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
