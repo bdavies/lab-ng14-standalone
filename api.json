@@ -1,0 +1,1001 @@
+{
+  "data": [
+    {
+      "slug": "2-bed-bright-stylish-apt-saint-raphael",
+      "name": "Saint-Rapha\u00ebl 2-Bed Bright & Stylish Apt with a really long lovely name and description here! \ud83e\udd29",
+      "property_id": 661566,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 2,
+      "guests": 5,
+      "guests_included": 2,
+      "bedrooms": 2,
+      "baths": 3.5,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": [
+            {
+              "key": "essentials",
+              "label": "Essentials",
+              "description": "Towels, bed sheets, soap, toilet paper, and pillows"
+            },
+            { "key": "ac", "label": "Air conditioning" },
+            {
+              "key": "cooking_basics",
+              "label": "Cooking basics",
+              "description": "Pots and pans, oil, salt and pepper"
+            },
+            {
+              "key": "dishes_and_silverware",
+              "label": "Dishes and silverware"
+            },
+            {
+              "key": "kitchen",
+              "label": "Kitchen",
+              "description": "Space where guests can cook their own meals"
+            },
+            { "key": "tv", "label": "TV" },
+            { "key": "wireless_internet", "label": "Wifi" }
+          ]
+        },
+        {
+          "title": "Bathroom",
+          "description": "",
+          "amenities": [
+            { "key": "body_soap", "label": "Body soap" },
+            { "key": "conditioner", "label": "Conditioner" },
+            { "key": "shampoo", "label": "Shampoo" }
+          ]
+        },
+        {
+          "title": "Bedroom and laundry",
+          "description": "",
+          "amenities": [
+            { "key": "iron", "label": "Iron" },
+            {
+              "key": "extra_pillows_and_blankets",
+              "label": "Extra pillows and blankets"
+            },
+            { "key": "mosquito_net", "label": "Mosquito net" }
+          ]
+        },
+        {
+          "title": "Entertainment",
+          "description": "",
+          "amenities": [
+            { "key": "ethernet_connection", "label": "Ethernet connection" },
+            { "key": "exercise_equipment", "label": "Exercise equipment" },
+            { "key": "game_console", "label": "Game console" }
+          ]
+        },
+        {
+          "title": "Family",
+          "description": "",
+          "amenities": [
+            { "key": "baby_safety_gate", "label": "Baby safety gates" },
+            {
+              "key": "babysitter_recommendations",
+              "label": "Babysitter recommendations"
+            },
+            { "key": "board_games", "label": "Board games" }
+          ]
+        },
+        {
+          "title": "Heating and cooling",
+          "description": "",
+          "amenities": [
+            { "key": "ceiling_fan", "label": "Ceiling fan" },
+            { "key": "fireplace", "label": "Indoor fireplace" },
+            { "key": "portable_fans", "label": "Portable fans" }
+          ]
+        },
+        {
+          "title": "Home safety",
+          "description": "",
+          "amenities": [
+            { "key": "fire_extinguisher", "label": "Fire extinguisher" },
+            {
+              "key": "carbon_monoxide_detector",
+              "label": "Carbon monoxide detector"
+            },
+            { "key": "smoke_detector", "label": "Smoke detector" }
+          ]
+        },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        {
+          "title": "Kitchen and dining",
+          "description": "",
+          "amenities": [
+            { "key": "baking_sheet", "label": "Baking sheet" },
+            { "key": "barbeque_utensils", "label": "Barbecue utensils" },
+            { "key": "bread_maker", "label": "Bread maker" },
+            { "key": "blender", "label": "Blender" }
+          ]
+        },
+        {
+          "title": "Location features",
+          "description": "",
+          "amenities": [
+            { "key": "lake_access", "label": "Lake access" },
+            { "key": "laundromat_nearby", "label": "Laundromat nearby" },
+            { "key": "ski_in_ski_out", "label": "Ski in/Ski out" },
+            { "key": "waterfront", "label": "Waterfront" }
+          ]
+        },
+        {
+          "title": "Outdoors",
+          "description": "",
+          "amenities": [
+            { "key": "garden_or_backyard", "label": "Garden or backyard" },
+            { "key": "bbq_area", "label": "BBQ grill" },
+            {
+              "key": "beach_essentials",
+              "label": "Beach essentials",
+              "description": "Beach towels, umbrella, beach blanket, snorkeling gear"
+            },
+            { "key": "bikes_for_rent", "label": "Bikes" }
+          ]
+        },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": [
+            { "key": "free_parking", "label": "Free parking on premises" }
+          ]
+        },
+        {
+          "title": "Services",
+          "description": "",
+          "amenities": [
+            {
+              "key": "luggage_dropoff_allowed",
+              "label": "Luggage dropoff allowed",
+              "description": "For guests' convenience when they have early arrival or late departure"
+            },
+            {
+              "key": "long_term_stays_allowed",
+              "label": "Long term stays allowed",
+              "description": "Allow stay for 28 days or more"
+            },
+            {
+              "key": "cleaning_before_checkout",
+              "label": "Cleaning before checkout"
+            }
+          ]
+        },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": [
+            {
+              "key": "home_step_free_access",
+              "label": "Step-free access",
+              "description": "There are no steps to get into the home, and the entryway is level"
+            },
+            {
+              "key": "path_to_entrance_lit_at_night",
+              "label": "Well-lit path to entrance",
+              "description": "Light can help guests move around unexpected barriers"
+            },
+            {
+              "key": "home_wide_doorway",
+              "label": "Wide doorway",
+              "description": "The entrance doorway is at least 32 inches wide"
+            },
+            {
+              "key": "flat_smooth_pathway_to_front_door",
+              "label": "Flat path to front door",
+              "description": "The pathway to the front door is at least 32 inches wide and flat, with little or no slope"
+            }
+          ]
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": [
+            {
+              "key": "step_free_access",
+              "label": "Step-free access",
+              "description": "There are no steps to get into the bedroom, and the entryway is level"
+            },
+            {
+              "key": "wide_doorway",
+              "label": "Wide doorway",
+              "description": "The bedroom door is at least 32 inches wide"
+            }
+          ]
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": [
+            {
+              "key": "step_free_access",
+              "label": "Step-free access",
+              "description": "There are no steps to get into the bathroom, and the entryway is level"
+            },
+            {
+              "key": "wide_doorway",
+              "label": "Wide doorway",
+              "description": "The bathroom door is at least 32 inches wide"
+            }
+          ]
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": [
+            {
+              "key": "step_free_access",
+              "label": "Step-free access",
+              "description": "There are no steps to get into the bathroom, and the entryway is level"
+            },
+            {
+              "key": "wide_doorway",
+              "label": "Wide doorway",
+              "description": "The bathroom door is at least 32 inches wide"
+            }
+          ]
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": [
+            {
+              "key": "ceiling_hoist",
+              "label": "Ceiling hoist",
+              "description": "The home has a device fixed to the ceiling that can lift someone in and out of a wheelchair"
+            }
+          ]
+        }
+      ],
+      "house_rules": "Whatever you do:\n* Be friendly to the dog\n* Not too much noise\n* Respect the neighbours\n* Have fun!!",
+      "head_image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/j7wwQCjRDWurUmvsO2LEQjxYG0MXr0onMxLD85oJ.jpeg",
+      "location_lat": 43.43187714,
+      "location_lon": 6.79131794,
+      "location_address": "Saint-Rapha\u00ebl, Provence-Alpes-C\u00f4te d'Azur, France",
+      "photos": [
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/j7wwQCjRDWurUmvsO2LEQjxYG0MXr0onMxLD85oJ.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/KZENhMj5vguHEmhjs8hLtDTeLi52qN7VT8tloqT7.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/0d2R03s7Vw4IYJQR2SqJj8BFsCbpCkRHPU6wGIzo.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/BzgFyYnpSkbj1iOThG5C5H6eO6XMb2xvB2yw2LAE.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/CQcc6YWk1y7fTeBgoXaRVBH6DovXrmSJHEcdL8Qx.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/TUm4Tre748gbFUM5sl8k2HhvWk7MYVYX4Z2oVygx.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/JevV0MuPM1kTVWc7Bj4cLxd1AsvFEYWr7HJ36cok.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/rzwBd2LLih38FgjNdUOi3bx5Wxe1cUN02hIpHhnt.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/uvBr8fGHa8fqcTZsSFtPwZW0r8wRzYOUr04g8KcF.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/pmoCyVvJufToi97erzfUVmHxBWecPioQ7rYW1JRU.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/Zl7ftcEMAlMUqoByiUZwXzLY9pnzN6WnWjxgbo0X.jpeg"
+        }
+      ],
+      "summary": "On the hills of St Rapha\u00ebl, 20 min walking distance of the city center. Quiet and safe neighbourhood. Apartment 80m2, large balcony of 12m2, 2 bedrooms, living room with open kitchen. The apartment is located on the 3rd floor with elevator, in a secured building. Features a garage + free parking on street.\n\nThis should be a new para:\n* With some bullets\n* And another one\n* And a third one\n\nAnd another new para",
+      "space": "Historic 2-bedroom carriage house on the well known Camak House grounds has everything you need for your Athens trip. Built in 1834, the unit comes with WiFi, self check-in, and a central location in the heart of downtown Athens. With tremendous character and a quaint setting, you won't know you are within walking distance to all things downtown and UGA. Cozy enough to stay with friends and family, remote work or game day weekends, this unique place will lure you in with historical charm.",
+      "access": "There is shared access through the front door of the complex. Someone will be there to meet you at the entrance. There is a lift.",
+      "transit": "Parking is free!",
+      "neighborhood_overview": "Located steps from downtown Athens and all that it has to offer with dining and nightlife. Also walkable to UGA and North Campus.",
+      "tagged_image_our_property": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/TUm4Tre748gbFUM5sl8k2HhvWk7MYVYX4Z2oVygx.jpeg",
+      "tagged_image_what_it_offers": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/j7wwQCjRDWurUmvsO2LEQjxYG0MXr0onMxLD85oJ.jpeg",
+      "tagged_image_accessibility": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/BzgFyYnpSkbj1iOThG5C5H6eO6XMb2xvB2yw2LAE.jpeg",
+      "tagged_image_neighborhood": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/0d2R03s7Vw4IYJQR2SqJj8BFsCbpCkRHPU6wGIzo.jpeg",
+      "tagged_image_good_to_know": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/Zl7ftcEMAlMUqoByiUZwXzLY9pnzN6WnWjxgbo0X.jpeg",
+      "tagged_image_overview": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/661566/0d2R03s7Vw4IYJQR2SqJj8BFsCbpCkRHPU6wGIzo.jpeg"
+    },
+    {
+      "slug": "key-west-villa",
+      "name": "*Key West Villa* Heated Priv Pool/Spa 7beds, Arcade!",
+      "property_id": 932010,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 2,
+      "guests": 4,
+      "guests_included": 1,
+      "bedrooms": 2,
+      "baths": 1.5,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": [
+            {
+              "key": "essentials",
+              "label": "Essentials",
+              "description": "Towels, bed sheets, soap, toilet paper, and pillows"
+            },
+            { "key": "ac", "label": "Air conditioning" },
+            { "key": "cleaning_products", "label": "Cleaning products" },
+            {
+              "key": "cooking_basics",
+              "label": "Cooking basics",
+              "description": "Pots and pans, oil, salt and pepper"
+            },
+            {
+              "key": "dryer",
+              "label": "Dryer",
+              "description": "In the building, free or for a fee"
+            },
+            {
+              "key": "washer",
+              "label": "Washing Machine",
+              "description": "In the building, free or for a fee"
+            },
+            { "key": "hair_dryer", "label": "Hair dryer" },
+            {
+              "key": "heating",
+              "label": "Heating",
+              "description": "Central heating or a heater in the listing"
+            },
+            { "key": "jacuzzi", "label": "Hot tub" },
+            {
+              "key": "kitchen",
+              "label": "Kitchen",
+              "description": "Space where guests can cook their own meals"
+            },
+            { "key": "tv", "label": "TV" },
+            { "key": "wireless_internet", "label": "Wifi" }
+          ]
+        },
+        {
+          "title": "Bathroom",
+          "description": "",
+          "amenities": [
+            { "key": "body_soap", "label": "Body soap" },
+            { "key": "conditioner", "label": "Conditioner" },
+            { "key": "shampoo", "label": "Shampoo" },
+            { "key": "bathtub", "label": "Bathtub" },
+            { "key": "hot_water", "label": "Hot Water" },
+            { "key": "shower_gel", "label": "Shower gel" }
+          ]
+        },
+        {
+          "title": "Bedroom and laundry",
+          "description": "",
+          "amenities": [
+            { "key": "bed_linens", "label": "Bed linens" },
+            { "key": "hangers", "label": "Hangers" },
+            { "key": "iron", "label": "Iron" },
+            { "key": "wardrobe_or_closet", "label": "Clothing storage" },
+            {
+              "key": "clothes_drying_rack",
+              "label": "Drying rack for clothing"
+            },
+            {
+              "key": "extra_pillows_and_blankets",
+              "label": "Extra pillows and blankets"
+            }
+          ]
+        },
+        {
+          "title": "Entertainment",
+          "description": "",
+          "amenities": [
+            { "key": "ethernet_connection", "label": "Ethernet connection" },
+            { "key": "ping_pong_table", "label": "Ping Pong Table" },
+            { "key": "sound_system", "label": "Sound system" }
+          ]
+        },
+        { "title": "Family", "description": "", "amenities": [] },
+        {
+          "title": "Heating and cooling",
+          "description": "",
+          "amenities": [{ "key": "ceiling_fan", "label": "Ceiling fan" }]
+        },
+        {
+          "title": "Home safety",
+          "description": "",
+          "amenities": [
+            { "key": "fire_extinguisher", "label": "Fire extinguisher" },
+            {
+              "key": "carbon_monoxide_detector",
+              "label": "Carbon monoxide detector"
+            }
+          ]
+        },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        {
+          "title": "Location features",
+          "description": "",
+          "amenities": [{ "key": "beach_access", "label": "Beach access" }]
+        },
+        {
+          "title": "Outdoors",
+          "description": "",
+          "amenities": [{ "key": "bbq_area", "label": "BBQ grill" }]
+        },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": [
+            { "key": "free_parking", "label": "Free parking on premises" }
+          ]
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "Whatever you do:\n* Be friendly to the dog\n* Not too much noise\n* Respect the neighbours\n* Have fun!",
+      "head_image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/cfe9e2db-449f-479a-90de-9604716991d5c0082c3e6e182c23bf376c1ff36df185.jpg",
+      "location_lat": 38.9835117,
+      "location_lon": -74.8217206,
+      "location_address": "Wildwood, NJ, United States",
+      "photos": [
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/cfe9e2db-449f-479a-90de-9604716991d5c0082c3e6e182c23bf376c1ff36df185.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/NIRMHog2trwViH6lWgL8BU6KUmNQrtlGbshlU7Rk.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/29f04da2-fcd2-4d71-8987-73c971a810c6pink_house_pool_cover.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/1fb4d8fa-b5a0-43b6-bf17-dfa1b7d68d64download.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/N1ADnQ1kRHAz3SJ13FthRAmYVsHZDyb1kcrhj7w3.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/rzTuwrPxWYdMitaBMswoYXuf7egyhHNULZynEtir.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/rJMx0jsvB0YBfYkSuhyDe2eakOphgLFaG4rbtHaB.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/r2eH27SPpEcL1D56IYdolRDknvPHSXCDF6slUVe0.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/IpXjefMlyY8oSlEPXQzXjvTjoJGCrJboQLs4oiJn.jpg"
+        }
+      ],
+      "summary": "This stylish place to stay is perfect for group trips. Located not far from downtown, you are a short walk to the farmer's market, the bay, and some of the city's best restaurants.",
+      "space": "The property comfortably sleeps four adults in two private bedrooms. There's plenty of space for cooking with a fully-stocked kitchen that opens into the living room and dining areas.",
+      "access": "You will receive your smart lock code for the front and back doors with your check-in instructions. There is parking available in the driveway for up to three personal vehicles.",
+      "transit": "",
+      "neighborhood_overview": "We're located on a quiet street in a family neighborhood. This venue is not suitable for parties, so please mind your noise during quiet hour from 10pm to 7am daily. There are several great nightlife spots a short walk away if you want to go out.",
+      "tagged_image_our_property": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/29f04da2-fcd2-4d71-8987-73c971a810c6pink_house_pool_cover.jpg",
+      "tagged_image_what_it_offers": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/NIRMHog2trwViH6lWgL8BU6KUmNQrtlGbshlU7Rk.jpg",
+      "tagged_image_accessibility": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/N1ADnQ1kRHAz3SJ13FthRAmYVsHZDyb1kcrhj7w3.jpg",
+      "tagged_image_neighborhood": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/rzTuwrPxWYdMitaBMswoYXuf7egyhHNULZynEtir.jpg",
+      "tagged_image_good_to_know": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/rJMx0jsvB0YBfYkSuhyDe2eakOphgLFaG4rbtHaB.jpg",
+      "tagged_image_overview": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/932010/rJMx0jsvB0YBfYkSuhyDe2eakOphgLFaG4rbtHaB.jpg"
+    },
+    {
+      "slug": "1-bedroom-apartment-in-dulwich-village",
+      "name": "1 bedroom apartment in Dulwich Village",
+      "property_id": 596242,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 2,
+      "guests": 4,
+      "guests_included": 1,
+      "bedrooms": 1,
+      "baths": 2.5,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": [
+            {
+              "key": "essentials",
+              "label": "Essentials",
+              "description": "Towels, bed sheets, soap, toilet paper, and pillows"
+            },
+            { "key": "ac", "label": "Air conditioning" },
+            {
+              "key": "washer",
+              "label": "Washing Machine",
+              "description": "In the building, free or for a fee"
+            },
+            {
+              "key": "heating",
+              "label": "Heating",
+              "description": "Central heating or a heater in the listing"
+            },
+            {
+              "key": "kitchen",
+              "label": "Kitchen",
+              "description": "Space where guests can cook their own meals"
+            },
+            { "key": "tv", "label": "TV" },
+            { "key": "wireless_internet", "label": "Wifi" }
+          ]
+        },
+        { "title": "Bathroom", "description": "", "amenities": [] },
+        { "title": "Bedroom and laundry", "description": "", "amenities": [] },
+        { "title": "Entertainment", "description": "", "amenities": [] },
+        { "title": "Family", "description": "", "amenities": [] },
+        { "title": "Heating and cooling", "description": "", "amenities": [] },
+        { "title": "Home safety", "description": "", "amenities": [] },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        { "title": "Location features", "description": "", "amenities": [] },
+        { "title": "Outdoors", "description": "", "amenities": [] },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": []
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "",
+      "head_image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/3ZY6VKSYY4ksynGVNRBKR0ZPg8HWnT1fuOSlPQw3.jpeg",
+      "location_lat": 51.44164658,
+      "location_lon": -0.066233,
+      "location_address": "Greater London, England, United Kingdom",
+      "photos": [
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/3ZY6VKSYY4ksynGVNRBKR0ZPg8HWnT1fuOSlPQw3.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/JTTUtaOeVrW3mn6kn7qBPWvYsYjNmiF7pd3Dr94r.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/VUDYXy6Uds9q9YrsXQUzrRmDbXET3oQteinOa4bG.jpeg"
+        }
+      ],
+      "summary": "1 Bedroom apartment in London dasdsa",
+      "space": "",
+      "access": "",
+      "transit": "",
+      "neighborhood_overview": "",
+      "tagged_image_our_property": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/3ZY6VKSYY4ksynGVNRBKR0ZPg8HWnT1fuOSlPQw3.jpeg",
+      "tagged_image_what_it_offers": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/JTTUtaOeVrW3mn6kn7qBPWvYsYjNmiF7pd3Dr94r.jpeg",
+      "tagged_image_accessibility": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/JTTUtaOeVrW3mn6kn7qBPWvYsYjNmiF7pd3Dr94r.jpeg",
+      "tagged_image_neighborhood": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/VUDYXy6Uds9q9YrsXQUzrRmDbXET3oQteinOa4bG.jpeg",
+      "tagged_image_good_to_know": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/3ZY6VKSYY4ksynGVNRBKR0ZPg8HWnT1fuOSlPQw3.jpeg",
+      "tagged_image_overview": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596242/JTTUtaOeVrW3mn6kn7qBPWvYsYjNmiF7pd3Dr94r.jpeg"
+    },
+    {
+      "slug": "cozy-flat-in-highwood-close",
+      "name": "Cozy flat in Highwood Close",
+      "property_id": 596250,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 2,
+      "guests": 4,
+      "guests_included": 1,
+      "bedrooms": 1,
+      "baths": 1,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": [
+            {
+              "key": "essentials",
+              "label": "Essentials",
+              "description": "Towels, bed sheets, soap, toilet paper, and pillows"
+            },
+            { "key": "ac", "label": "Air conditioning" },
+            {
+              "key": "washer",
+              "label": "Washing Machine",
+              "description": "In the building, free or for a fee"
+            },
+            {
+              "key": "heating",
+              "label": "Heating",
+              "description": "Central heating or a heater in the listing"
+            },
+            {
+              "key": "kitchen",
+              "label": "Kitchen",
+              "description": "Space where guests can cook their own meals"
+            },
+            { "key": "tv", "label": "TV" },
+            { "key": "wireless_internet", "label": "Wifi" }
+          ]
+        },
+        { "title": "Bathroom", "description": "", "amenities": [] },
+        { "title": "Bedroom and laundry", "description": "", "amenities": [] },
+        { "title": "Entertainment", "description": "", "amenities": [] },
+        { "title": "Family", "description": "", "amenities": [] },
+        { "title": "Heating and cooling", "description": "", "amenities": [] },
+        { "title": "Home safety", "description": "", "amenities": [] },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        { "title": "Location features", "description": "", "amenities": [] },
+        { "title": "Outdoors", "description": "", "amenities": [] },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": []
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "",
+      "head_image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/VTOda4OKPMJD5G2aPR2lZwXfL0O4aT66rGH76v6t.jpeg",
+      "location_lat": 51.44164658,
+      "location_lon": -0.066233,
+      "location_address": "Greater London, England, United Kingdom",
+      "photos": [
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/VTOda4OKPMJD5G2aPR2lZwXfL0O4aT66rGH76v6t.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/N2SihtPe3doLO1nSyIlFg8QzNuCqG3lR4e7nPBpP.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/HFOjiwQvTc0dr2wHRtbrAxoNs9gOh19j27fOSdUK.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/B3wZAJfqDUptD4SxupZ4nEYs34wxzvVPUmcTl66E.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/jCWoRsEmksollINv89Cdk5FOoz3zacEUsI4QuYpp.jpg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/JBxF8BCLMsfB3zElVqDOqMEkn68m57AbpzWcRnue.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/aLr4AiMtcKLwlSAvrcBdWqrDF6vhStkO1aAdW7OM.jpeg"
+        }
+      ],
+      "summary": "Modern Flat",
+      "space": "",
+      "access": "",
+      "transit": "",
+      "neighborhood_overview": "",
+      "tagged_image_our_property": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/jCWoRsEmksollINv89Cdk5FOoz3zacEUsI4QuYpp.jpg",
+      "tagged_image_what_it_offers": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/aLr4AiMtcKLwlSAvrcBdWqrDF6vhStkO1aAdW7OM.jpeg",
+      "tagged_image_accessibility": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/N2SihtPe3doLO1nSyIlFg8QzNuCqG3lR4e7nPBpP.jpeg",
+      "tagged_image_neighborhood": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/VTOda4OKPMJD5G2aPR2lZwXfL0O4aT66rGH76v6t.jpeg",
+      "tagged_image_good_to_know": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/N2SihtPe3doLO1nSyIlFg8QzNuCqG3lR4e7nPBpP.jpeg",
+      "tagged_image_overview": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/596250/VTOda4OKPMJD5G2aPR2lZwXfL0O4aT66rGH76v6t.jpeg"
+    },
+    {
+      "slug": "one-bedroom-apartment-1",
+      "name": "One-Bedroom Apartment",
+      "property_id": 540274,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "UNKNOWN",
+      "beds": 2,
+      "guests": 4,
+      "guests_included": 1,
+      "bedrooms": 2,
+      "baths": 2,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": []
+        },
+        { "title": "Bathroom", "description": "", "amenities": [] },
+        { "title": "Bedroom and laundry", "description": "", "amenities": [] },
+        { "title": "Entertainment", "description": "", "amenities": [] },
+        { "title": "Family", "description": "", "amenities": [] },
+        { "title": "Heating and cooling", "description": "", "amenities": [] },
+        { "title": "Home safety", "description": "", "amenities": [] },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        { "title": "Location features", "description": "", "amenities": [] },
+        { "title": "Outdoors", "description": "", "amenities": [] },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": []
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "",
+      "head_image": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "location_lat": 0,
+      "location_lon": 0,
+      "location_address": "Carpentras, France",
+      "photos": [],
+      "summary": "",
+      "space": "",
+      "access": "",
+      "transit": "",
+      "neighborhood_overview": "",
+      "tagged_image_our_property": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_what_it_offers": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_accessibility": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_neighborhood": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_good_to_know": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_overview": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg"
+    },
+    {
+      "slug": "double-room",
+      "name": "Double Room",
+      "property_id": 530206,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 0,
+      "guests": 1,
+      "guests_included": 1,
+      "bedrooms": 0,
+      "baths": 0,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": []
+        },
+        { "title": "Bathroom", "description": "", "amenities": [] },
+        { "title": "Bedroom and laundry", "description": "", "amenities": [] },
+        { "title": "Entertainment", "description": "", "amenities": [] },
+        { "title": "Family", "description": "", "amenities": [] },
+        { "title": "Heating and cooling", "description": "", "amenities": [] },
+        { "title": "Home safety", "description": "", "amenities": [] },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        { "title": "Location features", "description": "", "amenities": [] },
+        { "title": "Outdoors", "description": "", "amenities": [] },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": []
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "Hello there",
+      "head_image": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "location_lat": 0,
+      "location_lon": 0,
+      "location_address": "Tallinn, Estonia",
+      "photos": [],
+      "summary": "",
+      "space": "",
+      "access": "",
+      "transit": "By bus",
+      "neighborhood_overview": "",
+      "tagged_image_our_property": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_what_it_offers": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_accessibility": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_neighborhood": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_good_to_know": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg",
+      "tagged_image_overview": "https://irp.cdn-website.com/md/dmip/dms3rep/multi/wooden-dresser-old-chair.jpg"
+    },
+    {
+      "slug": "luxury-modern-apartment-in-dulwich-village",
+      "name": "Luxury modern apartment in Dulwich Village",
+      "property_id": 631160,
+      "booking_form_url": "http://booking-service-booking-service.hospitable/",
+      "property_type": "ENTIRE HOME",
+      "beds": 1,
+      "guests": 3,
+      "guests_included": 2,
+      "bedrooms": 1,
+      "baths": 1,
+      "amenities": [
+        {
+          "title": "Common",
+          "description": "Typical items that guests expect during their stay.",
+          "amenities": [
+            {
+              "key": "essentials",
+              "label": "Essentials",
+              "description": "Towels, bed sheets, soap, toilet paper, and pillows"
+            },
+            { "key": "ac", "label": "Air conditioning" },
+            { "key": "cleaning_products", "label": "Cleaning products" },
+            {
+              "key": "heating",
+              "label": "Heating",
+              "description": "Central heating or a heater in the listing"
+            },
+            {
+              "key": "kitchen",
+              "label": "Kitchen",
+              "description": "Space where guests can cook their own meals"
+            },
+            { "key": "tv", "label": "TV" },
+            { "key": "wireless_internet", "label": "Wifi" }
+          ]
+        },
+        { "title": "Bathroom", "description": "", "amenities": [] },
+        { "title": "Bedroom and laundry", "description": "", "amenities": [] },
+        { "title": "Entertainment", "description": "", "amenities": [] },
+        { "title": "Family", "description": "", "amenities": [] },
+        { "title": "Heating and cooling", "description": "", "amenities": [] },
+        { "title": "Home safety", "description": "", "amenities": [] },
+        { "title": "Internet and office", "description": "", "amenities": [] },
+        { "title": "Kitchen and dining", "description": "", "amenities": [] },
+        { "title": "Location features", "description": "", "amenities": [] },
+        { "title": "Outdoors", "description": "", "amenities": [] },
+        {
+          "title": "Parking and facilities",
+          "description": "",
+          "amenities": []
+        },
+        { "title": "Services", "description": "", "amenities": [] },
+        {
+          "title": "Accessibility Getting Home",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bedroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Bathroom",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessbility in Other Room Types",
+          "description": "",
+          "amenities": []
+        },
+        {
+          "title": "Accessibility Equipment",
+          "description": "",
+          "amenities": []
+        }
+      ],
+      "house_rules": "",
+      "head_image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/3dB0oFOGtUeZuq7BuV5cYWuRHCoGHxaUHKwCxBE2.jpeg",
+      "location_lat": 51.44170761,
+      "location_lon": -0.066115,
+      "location_address": "Greater London, England, United Kingdom",
+      "photos": [
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/3dB0oFOGtUeZuq7BuV5cYWuRHCoGHxaUHKwCxBE2.jpeg"
+        },
+        {
+          "image": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg"
+        }
+      ],
+      "summary": "Modern well-presented ground floor flat, finished to a high standard throughout with an open plan living area, generous master bedroom. New appliances.",
+      "space": "Spacious open planning living area with fully fitted kitchen with integrated appliances, generous master suite, tiled three piece bathroom.",
+      "access": "",
+      "transit": "Regular bus services are moments away with services in to central London and train services are available from Forest Hill station (including the Overground in to London Bridge and the City) and West Dulwich with service in to Victoria.",
+      "neighborhood_overview": "Only a short walk away is the beautiful Dulwich Park, the Horniman Museum and a good choice of local shops. Vibrant and safe neighborhood.",
+      "tagged_image_our_property": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg",
+      "tagged_image_what_it_offers": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/3dB0oFOGtUeZuq7BuV5cYWuRHCoGHxaUHKwCxBE2.jpeg",
+      "tagged_image_accessibility": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg",
+      "tagged_image_neighborhood": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg",
+      "tagged_image_good_to_know": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg",
+      "tagged_image_overview": "https://smartbnbuploads.nyc3.digitaloceanspaces.com/property_images/631160/uYZOmcC8swIoh91E0Q2gnrW7HobVTDTrjGLyMZi6.jpeg"
+    }
+  ]
+}
